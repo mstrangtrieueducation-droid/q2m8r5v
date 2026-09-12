@@ -325,10 +325,10 @@ const sections = [
         "type": "input",
         "prompt": "2. We learn a lot about dinosaurs. (expect)",
         "answers": [
-          "We expected to learn a lot about dinosaurs",
-          "We expected to learn a lot about dinosaurs."
+          "We expect to learn a lot about dinosaurs",
+          "We expect to learn a lot about dinosaurs."
         ],
-        "explanation": "Expect can be followed by a to-infinitive: expected to learn.",
+        "explanation": "Giữ thì hiện tại của câu gốc; dùng expect + to + động từ nguyên mẫu.",
         "image": "",
         "points": 1
       },
@@ -663,10 +663,9 @@ const sections = [
             "label": "Unscrambled word",
             "type": "input",
             "answers": [
-              "favorite",
-              "favourite"
+              "favorite"
             ],
-            "explanation": "The letters form favorite (British spelling: favourite)."
+            "explanation": "Các chữ cái cho sẵn ghép thành favorite. Em cần dùng đủ các chữ cái của đề, không thêm hoặc bớt chữ."
           },
           {
             "key": "match",
